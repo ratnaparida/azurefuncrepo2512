@@ -1,5 +1,5 @@
 Name : Ratna Parida
 Email : ratna.parida@ibm.com
 Location : Bangalore
-Organization : IBM INDIA
+Organization : IBM
 DOB : 05/05/1994
